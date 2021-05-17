@@ -1,0 +1,44 @@
+.main
+{
+width:400px;
+overflow:hidden;
+background:green;
+margin:20px; 
+}
+
+	
+.container
+{
+width:380px;
+overflow:hidden;
+background:blue;
+padding:10px; 
+}
+
+
+ 
+
+.container button{
+	width:100px;
+	height:100px;
+	margin:12px;
+}
+button{
+	width:120px;
+	height:30px;
+	margin:10px;
+}
+h4{
+	width:120px;
+	height:40px;
+	margin:10px;
+	
+	
+	color:white;
+	background:red;
+}
+h1{
+	background-color:yellow;
+	paddin :10px;
+	text-align:center;
+}
